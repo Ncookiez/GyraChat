@@ -15,7 +15,7 @@ const port = 3000;
 // Express Setup:
 app.use(bodyParser.urlencoded({ extended: true }));
 app.set('view engine', 'ejs');
-app.use(session({ secret: 'giraMaisSessionCookie' }));
+app.use(session({ secret: 'gyraMaisSessionCookie' }));
 
 // Express File Routing:
 app.get('/index.css', function(req, res) {

@@ -1,4 +1,4 @@
-# Gira+ Chat App
+# Gyra+ Chat App
 
 ## To Run Project:
 - Clone the repository.
