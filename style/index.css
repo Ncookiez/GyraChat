@@ -1,0 +1,49 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.chatBox {
+  margin: 25px;
+  width: 400px;
+  height: 650px;
+  background-color: lightgreen;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+}
+
+h1 {
+  margin: 30px 0px 30px 0px;
+}
+
+#messageArea {
+  height: 400px;
+  margin: 0px 30px 0px 30px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: lightblue;
+  overflow-y: scroll;
+}
+
+.msg {
+  text-align: left;
+  margin: 15px 10px 15px 10px;
+}
+
+.msgUser {
+  margin-right: 5px;
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: lightgreen;
+}
+
+#msgForm {
+  margin: 10px 30px 10px 30px;
+}
+
+#logoutForm {
+  margin-top: 15px;
+}
