@@ -1,22 +1,7 @@
-# Gira+ ChatBot Test
+# Gira+ Chat App
 
-## Requirements:
-- ReactJS w/ Hooks
-- Node.js
-- Apollo GraphQL
-- MongoDB
-
-## Functionality:
-- Open ChatBot
-- Login w/ Username
-- Message History
-- Chronological Message Display
-- New Message Alert
-- Logged In State
-- Log Out Functionality
-
-## Submission:
-- Name
-- Phone Number
-- LinkedIn
-- tecnologia@gyramais.com
+## To Run Project:
+- Clone the repository.
+- `npm install`
+- `npm run dev`
+- Go to `127.0.0.1:3000` on your browser.
